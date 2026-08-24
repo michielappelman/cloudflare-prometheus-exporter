@@ -1,0 +1,13 @@
+src/cloudflare/client.ts
+  ai_agent 1502,1514,1528,1577,1586,1652-1654,1870,1873-1877
+src/cloudflare/client.test.ts
+  ai_agent 65-137
+src/durable-objects/MetricExporter.ts
+  ai_agent 597,643
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "e875b6b3232fc5e8cd76b9e4ae9d8ee45d256e04",
+  "prompts": {}
+}
