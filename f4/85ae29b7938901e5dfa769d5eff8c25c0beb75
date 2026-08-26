@@ -1,0 +1,15 @@
+README.md
+  ai_agent 318
+src/cloudflare/client.test.ts
+  ai_agent 64-126
+src/cloudflare/gql/queries.ts
+  ai_agent 543
+src/cloudflare/client.ts
+  ai_agent 735-740,817-821,888
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "f485ae29b7938901e5dfa769d5eff8c25c0beb75",
+  "prompts": {}
+}
