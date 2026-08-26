@@ -1,0 +1,15 @@
+src/lib/types.ts
+  ai_agent 137
+src/cloudflare/client.test.ts
+  ai_agent 64-117
+README.md
+  ai_agent 452-454
+src/cloudflare/client.ts
+  ai_agent 413,450,3298-3300,3343-3345
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "93907a0a85dc227a5949349352eca477b3dadbaa",
+  "prompts": {}
+}
